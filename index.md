@@ -5,3 +5,5 @@
 layout: single
 author_profile: true
 ---
+
+{% include_relative about.md %}
