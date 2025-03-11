@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /talks/
+title: "Talks"
 ---
 
 Here goes my talks
