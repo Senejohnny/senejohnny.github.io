@@ -1,5 +1,5 @@
 ---
-permalink: /talks/
+permalink: /talk/
 title: "Talks"
 ---
 
