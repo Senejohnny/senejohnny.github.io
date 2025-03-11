@@ -1,8 +1,10 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Talks"
-    url: /talks/
-  - title: "Resume"
-    url: /resume/
+  - title: "Experience"
+    url: /experience/
+  - title: "Talk"
+    url: /talk/
+  - title: "Post"
+    url: /post/
+  # - title: "Resume"
+  #   url: /resume/
     
