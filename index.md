@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-{% include_relative about.md %}
+[About Me]({{ site.baseurl }}/about/)
