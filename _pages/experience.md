@@ -29,16 +29,16 @@ author_profile: true
 *Utrecth, The Netherlands*
 
 - Notable achievement or responsibility
-- Project or initiative led with measurable outcomes
-- Team contributions and collaborative successes
+
+
 ## Threadspan
-**Data Science Consultant & CTO** | [Start Date] - [End Date]  
-*Utrecth, The Netherlands*
+**Data Science Consultant & CTO** | [Jan 2021 Date] - [Jan 2022]  
+*Remote*
 
 ## [Accenture]
-**[Consultatn]** | [Oct-2018] - [Sep-2019]  
+**Consultatn** | [Oct-2018] - [Sep-2019]  
 *[Amsterdam, The Netherlands]*
 
 ## [Rijksuniversiteit Groningen]
-**[PhD Candidate]** | [Oct-2018] - [Sep-2019]  
-*[Amsterdam, The Netherlands]*
+**PhD Candidate** | [Oct-2018] - [Sep-2019]  
+*Amsterdam, The Netherlands*
