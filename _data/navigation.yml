@@ -1,9 +1,9 @@
 main:
   - title: "Experience"
     url: /experience/
-  - title: "Talk"
+  - title: "Talks"
     url: /talk/
-  - title: "Post"
+  - title: "Posts"
     url: /post/
   # - title: "Resume"
   #   url: /resume/
