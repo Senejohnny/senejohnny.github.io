@@ -17,7 +17,6 @@ classes: wide
 
 ### 2023
 
-* [Survival Analysis: a deep dive](https://www.youtube.com/watch?v=I33h5-GmHSM)<img src="/assets/images/pydata-logo.png" alt="Conference Logo" width="60"/>  
+* [Survival Analysis: a deep dive](https://www.youtube.com/watch?v=I33h5-GmHSM) <img src="/assets/images/pydata-logo.png" alt="Conference Logo" width="100"/>  
 
-* Survival Analysis: a deep dive <img src="/assets/images/dsfc-logo.png" alt="Conference Logo" width="100"/>
-**Data Science in Finance Conference** | *Amsterdam* | April
+* Survival Analysis: a deep dive <img src="/assets/images/dsfc-logo.png" alt="Conference Logo" width="60"/>
