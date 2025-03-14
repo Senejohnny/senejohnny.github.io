@@ -1,6 +1,7 @@
 ---
 permalink: /talk/
 title: "Talks"
+classes: wide
 ---
 ### 2025
 
@@ -10,7 +11,7 @@ title: "Talks"
 
 ### 2024
 
-<img src="/assets/images/pydata-logo.png" alt="Conference Logo" width="100"/>  #### [Causal Effect Estimation in Practice: Lessons Learned from E-commerce & Banking](https://www.youtube.com/watch?v=pz7QD2GPBlE)
+#### <img src="/assets/images/pydata-logo.png" alt="Conference Logo" width="100"/> [Causal Effect Estimation in Practice: Lessons Learned from E-commerce & Banking](https://www.youtube.com/watch?v=pz7QD2GPBlE)
 
 <img src="/assets/images/dsfc-logo.png" alt="Conference Logo" width="100"/>  #### Causal Inference: a deep dive
 <img src="pydata-logo.png" alt="Conference Logo" width="100"/>
