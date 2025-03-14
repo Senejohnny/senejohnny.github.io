@@ -1,11 +1,12 @@
 ---
 title: "Experience"
 permalink: /experience/
+classes: wide
 author_profile: true
 ---
 
 ## ABN AMRO
-** Principal Data Scientist ** | [Feb-2023] - [Current]  
+** Principal Data Scientist** | [Feb-2023] - [Current]  
 *Amsterdam, The Netherlands*
 
 - Key accomplishment demonstrating leadership, growth, or impact
@@ -16,17 +17,17 @@ author_profile: true
 ### Technologies
 - datbricks, pyspark,  
 
-## [UMC Utrecht]
-**[Senior Data Scientist]** | [Oct-2019] - [Jan 2023]  
-*[Utrecth, The Netherlands]*
+## UMC Utrecht
+**Senior Data Scientist** | [Oct-2019] - [Jan 2023]  
+*Utrecth, The Netherlands*
 
 - Notable achievement or responsibility
 - Project or initiative led with measurable outcomes
 - Team contributions and collaborative successes
 
-## [KidneyMatch]
-**[Entrepreneur]** | [Jan-2022] - [Jan 2023]  
-*[Utrecth, The Netherlands]*
+## KidneyMatch
+**Entrepreneur** | [Jan-2022] - [Jan 2023]  
+*Utrecth, The Netherlands*
 
 - Notable achievement or responsibility
 - Project or initiative led with measurable outcomes
