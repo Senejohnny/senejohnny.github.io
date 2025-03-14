@@ -5,7 +5,7 @@ classes: wide
 ---
 ### 2025
 
-#### [Workshop: Hands-on Survival Analysis](https://senejohnny.github.io/PyData_London_2025)
+* [Workshop: Hands-on Survival Analysis](https://senejohnny.github.io/PyData_London_2025)
 
 
 ### 2024
