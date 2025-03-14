@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## ABN AMRO
-** Principal Data Scientist** | [Feb-2023] - [Current]  
+**Principal Data Scientist** | [Feb-2023] - [Current]  
 *Amsterdam, The Netherlands*
 
 - Key accomplishment demonstrating leadership, growth, or impact
@@ -14,8 +14,7 @@ author_profile: true
 - Collaboration example showing cross-functional teamwork
 - Innovation or process improvement that enhanced efficiency
 
-### Technologies
-- datbricks, pyspark,  
+**Technologies:** datbricks, pyspark,  
 
 ## UMC Utrecht
 **Senior Data Scientist** | [Oct-2019] - [Jan 2023]  
@@ -32,10 +31,9 @@ author_profile: true
 - Notable achievement or responsibility
 - Project or initiative led with measurable outcomes
 - Team contributions and collaborative successes
-- 
-## [Threadspan]
-**[Data Science Consultant & CTO]** | [Start Date] - [End Date]  
-*[Utrecth, The Netherlands]*
+## Threadspan
+**Data Science Consultant & CTO** | [Start Date] - [End Date]  
+*Utrecth, The Netherlands*
 
 ## [Accenture]
 **[Consultatn]** | [Oct-2018] - [Sep-2019]  
