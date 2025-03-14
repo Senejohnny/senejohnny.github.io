@@ -1,13 +1,12 @@
 ---
 title: "Experience"
 permalink: /experience/
-layout: tags
 author_profile: true
 ---
 
-## [ABN AMRO]
-**[Principal Data Scientist]** | [Feb-2023] - [Current]  
-*[Amsterdam, The Netherlands]*
+## ABN AMRO
+** Principal Data Scientist ** | [Feb-2023] - [Current]  
+*Amsterdam, The Netherlands*
 
 - Key accomplishment demonstrating leadership, growth, or impact
 - Technical achievement or project highlight with quantifiable results
