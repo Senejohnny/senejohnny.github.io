@@ -17,15 +17,15 @@ author_profile: true
 **Technologies:** datbricks, pyspark,  
 
 ## UMC Utrecht
-**Senior Data Scientist** | [Oct-2019] - [Jan 2023]  
+**Data Scientist & Analytics Translator ** | [Nov-2019] - [Jan 2023]  
 *Utrecth, The Netherlands*
 
 - Notable achievement or responsibility
 - Project or initiative led with measurable outcomes
 - Team contributions and collaborative successes
 
-## KidneyMatch
-**Entrepreneur** | [Jan-2022] - [Jan 2023]  
+## KidneyMatch Initiative 
+**Entrepreneurship** | [Jan-2022] - [Jan 2023]  
 *Utrecth, The Netherlands*
 
 - Notable achievement or responsibility
