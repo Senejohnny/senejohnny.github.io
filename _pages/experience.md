@@ -31,17 +31,17 @@ financial supporters and domain experts to end users.
 **Entrepreneurship** | [Jan-2022] - [Jan 2023]  
 *Utrecth, The Netherlands*
 
-KidneyMatch is an AI based kidney transplant risk prediction solution
-developed at UMCU for commercial purposes. KidneyMatch value
-propositions were manifold: from contributing to patient quality of
-life and pharmaceutical drug development to decreasing healthcare
+KidneyMatch is an AI based kidney transplant risk prediction solution developed at UMCU for commercial purposes. KidneyMatch value propositions were manifold: from contributing to patient quality of life and pharmaceutical drug development to decreasing healthcare
 costs.
-- Notable achievement or responsibility
+- My interview with start up incubator [utrechtinc.nl](https://utrechtinc.nl/artikel/wants-to-ensure-that-his-research-does-not-end-up-on-the-shelf/)
 
 
 ## Threadspan
 **Data Science Consultant & CTO** | [Jan 2021 Date] - [Jan 2022]  
 *Remote*
+
+Guiding Threatspan in their ambition in using advanced analytics into their cloud based (AWS) intrusion detection system. I developed and
+deployed an anomaly detection solution to mitigate the high false-positive rate of the network monitoring engine.
 
 ## Accenture
 **Cybersecurity Consultant** | [Oct-2018] - [Sep-2019]  
@@ -53,7 +53,7 @@ requirements, assessing their security posture, identifying and prioritising the
 
 
 ## Education
-**PhD Applied Mathematics (System & Contrl)** | [Oct-2014] - [Sep-2018]  
+**PhD Applied Mathematics (Systems & Control)** | [Oct-2014] - [Sep-2018]  
 *Rijksuniversiteit Groningen, The Netherlands*
 
 
