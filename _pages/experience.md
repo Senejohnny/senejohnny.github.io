@@ -17,17 +17,25 @@ author_profile: true
 **Technologies:** datbricks, pyspark,  
 
 ## UMC Utrecht
-**Data Scientist & Analytics Translator ** | [Nov-2019] - [Jan 2023]  
+**Full-Stack Data Scientist** | [Nov-2019] - [Jan 2023]  
 *Utrecth, The Netherlands*
 
-- Notable achievement or responsibility
-- Project or initiative led with measurable outcomes
-- Team contributions and collaborative successes
+Developing & deploying a decision-support tools to help nephrologists predict the risk of kidney transplantation, using roughly 6k transplant data from all Dutch medical centers.
+As an analytics translator, I bring common understanding on business values and requirements among the stakeholders, ranging from
+financial supporters and domain experts to end users.
+
+- Developing user interface & API integrating with model
+
 
 ## KidneyMatch Initiative 
 **Entrepreneurship** | [Jan-2022] - [Jan 2023]  
 *Utrecth, The Netherlands*
 
+KidneyMatch is an AI based kidney transplant risk prediction solution
+developed at UMCU for commercial purposes. KidneyMatch value
+propositions were manifold: from contributing to patient quality of
+life and pharmaceutical drug development to decreasing healthcare
+costs.
 - Notable achievement or responsibility
 
 
@@ -35,10 +43,21 @@ author_profile: true
 **Data Science Consultant & CTO** | [Jan 2021 Date] - [Jan 2022]  
 *Remote*
 
-## [Accenture]
-**Consultatn** | [Oct-2018] - [Sep-2019]  
-*[Amsterdam, The Netherlands]*
-
-## [Rijksuniversiteit Groningen]
-**PhD Candidate** | [Oct-2018] - [Sep-2019]  
+## Accenture
+**Cybersecurity Consultant** | [Oct-2018] - [Sep-2019]  
 *Amsterdam, The Netherlands*
+
+Consulting the clients in fin-tech with best practices to secure their
+cloud infrastructures, web applications, and API’s. Defining security
+requirements, assessing their security posture, identifying and prioritising the best practices to close the gap between "as-is" and "to be" .
+
+
+## Education
+**PhD Applied Mathematics (System & Contrl)** | [Oct-2014] - [Sep-2018]  
+*Rijksuniversiteit Groningen, The Netherlands*
+
+
+[Resilience of coordination networks: data availability and integrity](https://www.rug.nl/about-ug/latest-news/events/promoties/promoties-2018?hfId=118415)
+
+**MSc in Electrical Engineering, Systems & Control** | [Oct-2012] - [Sep-2014]  
+*Sharif University of Tehcnology, Iran*
