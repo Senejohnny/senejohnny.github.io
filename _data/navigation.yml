@@ -3,8 +3,8 @@ main:
     url: /experience/
   - title: "Talks"
     url: /talk/
-  - title: "Posts"
-    url: /post/
+  # - title: "Posts"
+    # url: /post/
   # - title: "Resume"
   #   url: /resume/
     

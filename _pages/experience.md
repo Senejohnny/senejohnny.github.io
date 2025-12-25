@@ -5,8 +5,6 @@ classes: wide
 author_profile: true
 ---
 
-# Expereinces
-
 ## ABN AMRO
 **Senior Data Scientist, Analytics PO** | [Feb-2023] - [Current]  
 *Amsterdam, The Netherlands*
