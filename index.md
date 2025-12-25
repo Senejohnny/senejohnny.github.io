@@ -6,7 +6,7 @@ layout: single
 classes:
   - wide
 author_profile: true
-title: "About"
+title: "Welcome to my Profile"
 ---
 
 I am a Senior Data Scientist and Certified Analytics Translator with a PhD in Applied Mathematics and a foundation in Electrical Engineering. My career has been driven by a fascination with complex systems—leading me to solve high-stakes challenges across manufacturing, cybersecurity, healthcare, and finance.
