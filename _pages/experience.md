@@ -71,4 +71,4 @@ Consulted clients (fin-tech, Oil & Gas) with best practices to secure their clou
 
 
 **B.Sc. & M.Sc. in Electrical Engineering, Systems & Control** | [Oct-2012] - [Sep-2014]  
-*Hamadan & Sharif University of Tehcnology, Iran*
+*Hamedan & Sharif University of Tehcnology, Iran*
