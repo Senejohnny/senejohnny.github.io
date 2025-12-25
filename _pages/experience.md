@@ -5,6 +5,8 @@ classes: wide
 author_profile: true
 ---
 
+# Expereinces
+
 ## ABN AMRO
 **Senior Data Scientist, Analytics PO** | [Feb-2023] - [Current]  
 *Amsterdam, The Netherlands*
@@ -12,18 +14,18 @@ author_profile: true
 Drove AI adoption across marketing, sales, and product teams by aligning solution road-maps with bank-wide strategy and OKRs.
 
 * Meeting preparation GenAI product (saves 90K hour annually)
-* High-value lead generation: Investment up-sell & activation lead, adds {\EUR 150 M} Valuable Asset with \EUR 750K annual revenue; Mortgage outflow prevention, retains {\EUR 1.2 M} annual revenue.
-* Next Best Action (grows product sales by 20\% )
+* High-value lead generation: Investment up-sell & activation lead, adds € 150 M Valuable Asset with   € 750K annual revenue; Mortgage outflow prevention, retains € 1.2 M annual revenue.
+* Next Best Action (grows product sales by 20% )
 
 * Evaluating E-com campaign's causal impact on Revenue, [Talk](https://www.youtube.com/watch?v=pz7QD2GPBlE) 
 
-* Evaluating financial services causal impact on Sales \& AUM [Talk](https://www.youtube.com/watch?v=k-TPU8nT5As) 
+* Evaluating financial services causal impact on Sales & AUM [Talk](https://www.youtube.com/watch?v=k-TPU8nT5As) 
 
 * Client Lifetime Value model for retail banking (setting strategy)
 
-* Personalized [financial](https://financialfocus.abnamro.nl) news to improve 24K clients t \& r-NPS 
+* Personalized [financial](https://financialfocus.abnamro.nl) news to improve 24K clients t & r-NPS 
 
-* Developed internal ETL package (reduce time to market by 30\%)
+* Developed internal ETL package (reduce time to market by 30%)
 
 **Technologies & Techniques:** Datbricks, pyspark, GenAI, Causal Inference,   
 
@@ -56,10 +58,11 @@ Developed and deployed an anomaly detection solution to mitigate the high false-
 **OT Cybersecurity Consultant** | [Oct-2018] - [Sep-2019]  
 *Amsterdam, The Netherlands*
 
-Consulted clients (fin-tech, Oil \& Gas) with best practices to secure their cloud infrastructures, web applications, and API’s.
+Consulted clients (fin-tech, Oil & Gas) with best practices to secure their cloud infrastructures, web applications, and API’s.
 
 
-## Education
+
+# Education
 **PhD Applied Mathematics (Systems & Control)** | [Oct-2014] - [Sep-2018]  
 *Rijksuniversiteit Groningen, The Netherlands*
 
@@ -67,5 +70,5 @@ Consulted clients (fin-tech, Oil \& Gas) with best practices to secure their clo
 [Resilience of coordination networks: data availability and integrity](https://www.rug.nl/about-ug/latest-news/events/promoties/promoties-2018?hfId=118415)
 
 
-**B.Sc. \& M.Sc. in Electrical Engineering, Systems & Control** | [Oct-2012] - [Sep-2014]  
-*Hamadan \& Sharif University of Tehcnology, Iran*
+**B.Sc. & M.Sc. in Electrical Engineering, Systems & Control** | [Oct-2012] - [Sep-2014]  
+*Hamadan & Sharif University of Tehcnology, Iran*
