@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Danial Senejohnny"
   avatar : "/assets/images/bio-photo.HEIC"
-  bio    : "Data Scientist & Analytics Translator"
+  bio    : "`Staff Data Scientist & Analytics Translator"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"

@@ -5,9 +5,9 @@ classes: wide
 author_profile: true
 ---
 
-## ABN AMRO
-**Senior Data Scientist, Analytics PO** | [Feb-2023] - [Current]  
-*Amsterdam, The Netherlands*
+## ABN AMRO, International Wealth Management 
+**Staff Data Scientist (Principal Level)** | *Amsterdam, The Netherlands* | Feb-2023 - Now  
+
 
 Drove AI adoption across marketing, sales, and product teams by aligning solution road-maps with bank-wide strategy and OKRs.
 
@@ -25,15 +25,13 @@ Drove AI adoption across marketing, sales, and product teams by aligning solutio
 
 * Developed internal ETL package (reduce time to market by 30%)
 
-**Technologies & Techniques:** Datbricks, pyspark, GenAI, Causal Inference,   
+**Technologies & Techniques:** Databricks, pyspark, GenAI, Causal Inference,   
 
 ## Utrecht Medical Center
-**Full-Stack Data Scientist** | [Nov-2019] - [March 2023]  
-*Utrecth, The Netherlands*
+**Full-Stack Data Scientist** | *Utrecth, The Netherlands* | Nov-2019 - March 2023  
 
-Developing & deploying a decision-support tools to help nephrologists predict the risk of kidney transplantation, using roughly 6k transplant data from all Dutch medical centers.
-As an analytics translator, I bring common understanding on business values and requirements among the stakeholders, ranging from
-financial supporters and domain experts to end users.
+
+Architected and deployed clinical decision-support tools predicting kidney transplant outcomes by leveraging a consolidated dataset of 6k+ records from all Dutch medical centers. Served as the Analytics Translator to align strategic business requirements with technical execution across a diverse stakeholder group, including executive sponsors, clinical experts, and end-users.
 
 Translated complex nephrology and immunology requirements into AI-driven decision-support tools, optimizing the high-stakes trade-off between accepting an available kidney or awaiting a lower-risk organ.
 
@@ -45,22 +43,23 @@ Translated complex nephrology and immunology requirements into AI-driven decisio
 - Developed research-support web app to visualize molecules in 3D
 
 
-## Threadspan
-**ML Engineer Python Developer** | [Jan 2021] - [March 2022]  
-*Remote*
+## Threatspan
+**ML Engineer Python Developer** | *Remote* | Jan 2021 - March 2022
+
 
 Developed and deployed an anomaly detection solution to mitigate the high false-positive rate of the network monitoring engine.
 
 
 ## Accenture
-**OT Cybersecurity Consultant** | [Oct-2018] - [Sep-2019]  
-*Amsterdam, The Netherlands*
+**IOT & OT Cybersecurity Consultant** | *Amsterdam, The Netherlands* | Oct-2018 - Sep-2019
 
 Consulted clients (fin-tech, Oil & Gas) with best practices to secure their cloud infrastructures, web applications, and API’s.
 
 
 
 # Education
+
+## Rijksuniversiteit Groningen
 **PhD Applied Mathematics (Systems & Control)** | [Oct-2014] - [Sep-2018]  
 *Rijksuniversiteit Groningen, The Netherlands*
 

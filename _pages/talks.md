@@ -7,7 +7,7 @@ classes: wide
 
 * [Causal Inference in Network Structures: Lessons learned From Financial Services](https://www.youtube.com/watch?v=k-TPU8nT5As)   <img src="/assets/images/pydata-logo.png" alt="Conference Logo" width="80"/> 
 
-* [Workshop: Hands-on Survival Analysis](https://senejohnny.github.io/PyData_London_2025)
+* [Workshop: Hands-on Survival Analysis](http://senejohnny.com/hands-on-survival-analysis/intro.html)
 
 
 ### 2024
