@@ -4,7 +4,7 @@ This is my personal page inspired by [**this template**](https://github.com/mmis
 
 
 # Danial Senejohnny, PhD 🚀
-### Staff Data Scientist | Certified Analytics Translator | Applied Mathematician
+### Senior Data Scientist | Certified Analytics Translator | Applied Mathematician
 
 Welcome to the repository for my personal website. I specialize in bridging the gap between deep technical engineering and strategic business growth.
 

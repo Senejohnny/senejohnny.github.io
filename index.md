@@ -9,9 +9,9 @@ author_profile: true
 title: "Profile"
 ---
 
-I am a Staff Data Scientist (Principal Level) with a PhD in Applied Mathematics and a foundation in Electrical Engineering. My career has been driven by a fascination with complex systems—leading me to solve high-stakes challenges across manufacturing, cybersecurity, healthcare, and finance.
+I am a Senior Data Scientist & Analytics Translator with a PhD in Applied Mathematics and a foundation in Electrical Engineering. My career has been driven by a fascination with complex systems—leading me to solve high-stakes challenges across manufacturing, cybersecurity, healthcare, and finance.
 
-Currently, I lead a cross-functional team at ABN AMRO International Wealth Management. 
+I lead a cross-functional initiatives at ABN AMRO. 
 We bridge the gap between technical engineering and strategic goals, collaborating closely with marketing, sales, product, and segment development teams.
 Together, we deliver AI-driven solutions that transform how the bank approaches mortgages & loans to investments and financial planning.
 

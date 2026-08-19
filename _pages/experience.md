@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## ABN AMRO, International Wealth Management 
-**Staff Data Scientist (Principal Level)** | *Amsterdam, The Netherlands* | Feb-2023 - Now  
+**Senior Data Scientist** | *Amsterdam, The Netherlands* | Feb-2023 - Now  
 
 
 Drove AI adoption across marketing, sales, and product teams by aligning solution road-maps with bank-wide strategy and OKRs.
